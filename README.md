@@ -55,4 +55,4 @@ GitHub: https://github.com/jebinjbn
 *BeautyBook is a frontend project and concept demonstration. Backend-connected booking and AI-powered hairstyle processing are potential future enhancements, not confirmed implemented features.*
 
 ### Tags
-`Web Development` `Frontend Development` `HTML5` `CSS3` `JavaScript` `UI/UX Design` `Portfolio Project`
+`Web Development` `Frontend Development` `HTML5` `CSS3` `JavaScript` `UI/UX Design` 
